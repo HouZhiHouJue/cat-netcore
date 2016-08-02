@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "Microsoft.Extensions.Configuration": "1.0.0",
+    "Microsoft.Extensions.Configuration.EnvironmentVariables": "1.0.0",
+    "Microsoft.Extensions.Configuration.FileExtensions": "1.0.0",
+    "Microsoft.Extensions.Configuration.Json": "1.0.0",
+    "NETStandard.Library": "1.6.0",
+    "System.Diagnostics.Process": "4.1.0",
+    "System.IO.MemoryMappedFiles": "4.0.0",
+    "System.Net.Http": "4.1.0",
+    "System.Net.NameResolution": "4.0.0",
+    "System.Threading.Thread": "4.0.0",
+    "System.Xml.XmlDocument": "4.0.1"
+  },
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  },
+  "version": "1.0.0-*"
+}
